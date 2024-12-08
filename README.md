@@ -6,7 +6,7 @@ Advent of Code 2015 🎄 🎅
 | #1 |  [cpp](./01_cpp/) | :heavy_check_mark: | :heavy_check_mark: |
 | #2 |  [cpp](./02_cpp/) | :heavy_check_mark: | :heavy_check_mark: |
 | #3 |  [cpp](./03_cpp/) | :heavy_check_mark: | :heavy_check_mark: |
-| #4 | - | :x: | :x: |
+| #4 |  [cpp](./04_cpp/) | :heavy_check_mark: | :heavy_check_mark: |
 | #5 | - | :x: | :x: |
 | #6 | - | :x: | :x: |
 | #7 | - | :x: | :x: |

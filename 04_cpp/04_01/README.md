@@ -1,0 +1,1 @@
+g++ -o 04_01 04_01.cpp -lssl -lcrypto
