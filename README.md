@@ -7,7 +7,7 @@ Advent of Code 2015 🎄 🎅
 | #2 |  [cpp](./02_cpp/) | :heavy_check_mark: | :heavy_check_mark: |
 | #3 |  [cpp](./03_cpp/) | :heavy_check_mark: | :heavy_check_mark: |
 | #4 |  [cpp](./04_cpp/) | :heavy_check_mark: | :heavy_check_mark: |
-| #5 | - | :x: | :x: |
+| #5 |  [cpp](./05_cpp/) | :heavy_check_mark: | :heavy_check_mark: |
 | #6 | - | :x: | :x: |
 | #7 | - | :x: | :x: |
 | #8 | - | :x: | :x: |
@@ -34,5 +34,5 @@ Advent of Code 2015 🎄 🎅
 ```shell
 export TASK_NO=01_02
 cd 01_cpp/$TASK_NO
-g++ -o $TASK_NO $TASK_NO.cpp && ./$TASK_NO
+g++ -o $TASK_NO.out $TASK_NO.cpp && ./$TASK_NO.out
 ```
